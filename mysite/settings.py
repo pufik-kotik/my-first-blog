@@ -25,7 +25,7 @@ SECRET_KEY = 'fh$k-+gb)6(y#i#x9s&b%fs$4ku6@tny!-=4ed8%)3%s!+x6#7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<pufikkotik>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pufikkotik.pythonanywhere.com']
 
 
 # Application definition
